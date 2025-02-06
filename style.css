@@ -6,7 +6,7 @@ body {
   align-items: center;
   height: 100vh;
   background-color: #fff5f5;
-  font-family: "Indie Flower", cursive;
+  font-family: "Courier New", Courier, monospace;
   overflow: hidden;
 }
 
